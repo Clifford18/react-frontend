@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Axios - version 0.27.2
 - React-router-dom - version 6.3.0
 
-##Packages installed
+## Packages installed
 
 - npx create-react-app my-app
 - npm install devextreme@21.2 devextreme-react@21.2 --save --save-exact

@@ -1,7 +1,7 @@
 import React from 'react';
 import {useRef, useState, useEffect, useContext} from 'react';
-import './LoginRegisterStyle.css';
 import AuthContext from "../context/AuthProvider";
+import './styles/LoginStyles.css';
 
 import axios from '../api/axios';
 
@@ -96,13 +96,6 @@ const LoginComponent = () => {
 
 						<button>Sign In</button>
 					</form>
-					<p>
-						Need an Account?<br/>
-						<span className="line">
-					{/*put router link here*/}
-							<a href="#">Sign Up</a>
-						</span>
-					</p>
 
 				</section>
 			)}

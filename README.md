@@ -7,3 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - DevExtreme - version 21.2
 - Bootstrap - version 5.1.3
 
+##Packages installed
+
+-npx create-react-app my-app
+-npm install devextreme@21.2 devextreme-react@21.2 --save --save-exact
+-npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core

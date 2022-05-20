@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Bootstrap - version 5.1.3
 - Font Awesome - version 6.1.1
 - Axios - version 0.27.2
+- React-router-dom - version 6.3.0
 
 ##Packages installed
 
@@ -15,3 +16,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -npm install devextreme@21.2 devextreme-react@21.2 --save --save-exact
 -npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
 -npm i axios
+-npm react-router-dom
